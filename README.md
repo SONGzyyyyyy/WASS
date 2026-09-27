@@ -1,4 +1,4 @@
-````markdown
+
 ## Dataset
 
 This project uses the publicly available **WiSig dataset**, a large-scale WiFi signal dataset designed for receiver- and channel-agnostic radio frequency fingerprinting (RFF).
@@ -18,7 +18,5 @@ The dataset is described in:
   pages   = {22808--22818},
   year    = {2022}
 }
-````
 
-```
 ```
